@@ -3,7 +3,7 @@
 ## To-do list
 
 **General**
-- [ ] Git Basics
+- [x] Git Basics
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
