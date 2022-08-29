@@ -8,8 +8,8 @@
 - [x] VCS (hello gitty), GitHub and Collaboration
 
 **Front-End Basics**
-- [ ] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [x] Intro to HTML & CSS
+- [x] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model
@@ -50,6 +50,23 @@
     
 *Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/git-collaboration)*
 
+</details>
+
+<details>
+  <summary><b>Intro to HTML & CSS</b></summary></br>
+  
+ Most of material from [Coursera's 1-2weeks ](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/2), Codecademy's [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css) was not new to me as I studied HTML and CSS before. Nonetheless, courses were interesting and it was good to go through the topics again to refresh them in my memory.
+
+*Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/task_html_css_intro)*</br>
+</details>
+
+<details>
+  <summary><b>Responsive Web Design</b></summary></br>
+
+[Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) was a good intro piece to responsive design. I was already familiar with Flexbox and Grid, but viveo courses definitylly helped me better understand these concepts. I will definitelly use flexbox and grid in the future as they a such a great tools that make building responsive desing so much easier.
+As always games - [FlexboxFroggy](http://flexboxfroggy.com/) [Grid Garden](http://cssgridgarden.com/#ru) - were so much fun!
+
+*Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/task_responsive_web_design)*</br>
 </details></br>
 
 *To be continued...*
