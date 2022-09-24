@@ -10,8 +10,8 @@
 **Front-End Basics**
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [x] HTML & CSS Practice
+- [x] JavaScript Basics
 - [ ] Document Object Model
 
 **Advanced topics**
@@ -67,6 +67,21 @@
 As always games - [FlexboxFroggy](http://flexboxfroggy.com/) [Grid Garden](http://cssgridgarden.com/#ru) - were so much fun!
 
 *Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/task_responsive_web_design)*</br>
+</details>
+
+<details>
+  <summary><b>HTML & CSS Practice</b></summary></br>
+
+[Demo](https://marynatovtyn.github.io/hooli-style-popup/) | [Code Base](https://github.com/marynatovtyn/hooli-style-popup)</br>
+</details>
+
+<details>
+  <summary><b>JavaScript Basics</b></summary></br>
+
+[JS basics course](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4) was a good intro piece to JavaScript.
+I really liked [FreeCodeCamp course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript). Especially parts on Fucntional programming and Algorithm Scripting were challenging. As it was a completelly new material for me.
+
+*Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/task_js_basics)*</br>
 </details></br>
 
 *To be continued...*
