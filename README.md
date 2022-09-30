@@ -84,4 +84,17 @@ I really liked [FreeCodeCamp course](https://www.freecodecamp.org/learn/javascri
 *Finished task can be found in a [following folder](https://github.com/marynatovtyn/kottans-frontend/tree/main/task_js_basics)*</br>
 </details></br>
 
+<details>
+  <summary><b>Document Object Model</b></summary></br>
+
+[Demo](https://marynatovtyn.github.io/dom-task/) | [Code Base](https://github.com/marynatovtyn/dom-task)</br>
+</details></br>
+
+<details>
+  <summary><b>Building a Tiny JS World (pre-OOP)</b></summary></br>
+
+[Demo](https://marynatovtyn.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/marynatovtyn/a-tiny-JS-world)</br>
+</details></br>
+
+
 *To be continued...*
